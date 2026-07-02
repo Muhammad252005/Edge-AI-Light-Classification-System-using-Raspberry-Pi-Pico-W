@@ -76,7 +76,7 @@ Designed around core **Edge AI** principles, the system employs adaptive statist
 
 ### Source Code
 
-[click here to]() Access the complete project source code in this repository.
+[click here to](code/Self_Calibrating_Ambient_Light_Classifier_main_code.py) Access the complete project source code in this repository.
 
 ### Demonstration
 
